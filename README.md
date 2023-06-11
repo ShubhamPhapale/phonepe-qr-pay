@@ -16,7 +16,7 @@
 
 ### Links
 
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live]([https://your-live-site-url.com](https://shubhamphapale.github.io/phonepe-qr-pay/))
 
 ### Built with
 
