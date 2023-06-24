@@ -23,7 +23,6 @@
 - HTML5
 - CSS
 - Flexbox
-- CSS Grid
 
 ## Author
 
